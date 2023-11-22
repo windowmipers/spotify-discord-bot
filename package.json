@@ -1,0 +1,22 @@
+{
+  "name": "spotify-discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot that uses spotify api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/windowmipers/spotify-discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windowmipers/spotify-discord-bot/issues"
+  },
+  "homepage": "https://github.com/windowmipers/spotify-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
